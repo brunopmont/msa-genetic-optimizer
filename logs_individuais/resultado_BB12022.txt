@@ -1,0 +1,7 @@
+=== RESULTADOS DO REFINAMENTO ===
+Instância: BB12022 (BAliBase 3)
+Método: Algoritmo Genético (Crossover Seguro)
+---------------------------------
+Q-Score: 0.992
+TC-Score: 0.98
+---------------------------------

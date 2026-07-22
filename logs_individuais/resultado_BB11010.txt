@@ -1,0 +1,7 @@
+=== RESULTADOS DO REFINAMENTO ===
+Instância: BB11010 (BAliBase 3)
+Método: Algoritmo Genético (Crossover Seguro)
+---------------------------------
+Q-Score: 0.389
+TC-Score: 0
+---------------------------------

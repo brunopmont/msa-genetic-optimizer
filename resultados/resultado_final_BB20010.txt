@@ -1,0 +1,4 @@
+Instância: BB20010
+Q-Score: 0.908
+TC-Score: 0.536
+Tempo de Execução (s): 8925.74

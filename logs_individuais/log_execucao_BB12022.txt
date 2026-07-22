@@ -1,0 +1,26 @@
+=== INICIANDO EXECUÇÃO FORÇA TOTAL: BB12022 ===
+Dimensões: 5 fitas x 502 colunas
+Parâmetros: 100 Gerações | Pop: 20
+
+Geração 000/100 | Melhor WSP: -1173.00
+Geração 005/100 | Melhor WSP: -1173.00
+Geração 010/100 | Melhor WSP: -1173.00
+Geração 015/100 | Melhor WSP: -1173.00
+Geração 020/100 | Melhor WSP: -1171.00
+Geração 025/100 | Melhor WSP: -1171.00
+Geração 030/100 | Melhor WSP: -1171.00
+Geração 035/100 | Melhor WSP: -1171.00
+Geração 040/100 | Melhor WSP: -1171.00
+Geração 045/100 | Melhor WSP: -1171.00
+Geração 050/100 | Melhor WSP: -1171.00
+Geração 055/100 | Melhor WSP: -1171.00
+Geração 060/100 | Melhor WSP: -1171.00
+Geração 065/100 | Melhor WSP: -1171.00
+Geração 070/100 | Melhor WSP: -1171.00
+Geração 075/100 | Melhor WSP: -1171.00
+Geração 080/100 | Melhor WSP: -1171.00
+Geração 085/100 | Melhor WSP: -1171.00
+Geração 090/100 | Melhor WSP: -1171.00
+Geração 095/100 | Melhor WSP: -1171.00
+
+=== ALGORITMO GENÉTICO FINALIZADO ===

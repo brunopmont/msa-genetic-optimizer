@@ -1,0 +1,4 @@
+Instância: BB11001
+Q-Score: 1
+TC-Score: 1
+Tempo de Execução (s): 65.09

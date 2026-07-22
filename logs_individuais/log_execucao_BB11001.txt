@@ -1,0 +1,46 @@
+=== INICIANDO EXECUÇÃO FORÇA TOTAL: BB11001 ===
+Dimensões: 4 fitas x 96 colunas
+Parâmetros: 200 Gerações | Pop: 40
+
+Geração 000/200 | Melhor WSP: -131.50
+Geração 005/200 | Melhor WSP: -130.00
+Geração 010/200 | Melhor WSP: -129.50
+Geração 015/200 | Melhor WSP: -129.50
+Geração 020/200 | Melhor WSP: -129.50
+Geração 025/200 | Melhor WSP: -129.00
+Geração 030/200 | Melhor WSP: -129.00
+Geração 035/200 | Melhor WSP: -129.00
+Geração 040/200 | Melhor WSP: -127.50
+Geração 045/200 | Melhor WSP: -127.50
+Geração 050/200 | Melhor WSP: -127.50
+Geração 055/200 | Melhor WSP: -127.50
+Geração 060/200 | Melhor WSP: -127.50
+Geração 065/200 | Melhor WSP: -127.50
+Geração 070/200 | Melhor WSP: -127.50
+Geração 075/200 | Melhor WSP: -127.50
+Geração 080/200 | Melhor WSP: -127.50
+Geração 085/200 | Melhor WSP: -127.50
+Geração 090/200 | Melhor WSP: -127.50
+Geração 095/200 | Melhor WSP: -127.50
+Geração 100/200 | Melhor WSP: -126.50
+Geração 105/200 | Melhor WSP: -126.50
+Geração 110/200 | Melhor WSP: -126.50
+Geração 115/200 | Melhor WSP: -126.50
+Geração 120/200 | Melhor WSP: -126.50
+Geração 125/200 | Melhor WSP: -126.50
+Geração 130/200 | Melhor WSP: -126.50
+Geração 135/200 | Melhor WSP: -126.50
+Geração 140/200 | Melhor WSP: -126.50
+Geração 145/200 | Melhor WSP: -126.50
+Geração 150/200 | Melhor WSP: -126.50
+Geração 155/200 | Melhor WSP: -126.50
+Geração 160/200 | Melhor WSP: -126.50
+Geração 165/200 | Melhor WSP: -126.50
+Geração 170/200 | Melhor WSP: -126.50
+Geração 175/200 | Melhor WSP: -126.50
+Geração 180/200 | Melhor WSP: -126.50
+Geração 185/200 | Melhor WSP: -126.50
+Geração 190/200 | Melhor WSP: -126.50
+Geração 195/200 | Melhor WSP: -126.50
+
+=== ALGORITMO GENÉTICO FINALIZADO ===

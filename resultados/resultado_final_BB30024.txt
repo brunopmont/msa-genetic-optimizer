@@ -1,0 +1,4 @@
+Instância: BB30024
+Q-Score: 0.889
+TC-Score: 0.6
+Tempo de Execução (s): 59770.15

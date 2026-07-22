@@ -1,0 +1,4 @@
+Instância: BB12022
+Q-Score: 0.992
+TC-Score: 0.98
+Tempo de Execução (s): 7.72

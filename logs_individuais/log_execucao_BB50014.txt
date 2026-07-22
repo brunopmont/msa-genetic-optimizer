@@ -1,0 +1,11 @@
+=== INICIANDO EXECUÇÃO: BB50014 ===
+Dimensões: 30 fitas x 1179 colunas
+Parâmetros: 25 Gerações | Pop: 10
+
+Geração 000/25 | Melhor WSP: -31067.50
+Geração 005/25 | Melhor WSP: -31067.50
+Geração 010/25 | Melhor WSP: -31067.50
+Geração 015/25 | Melhor WSP: -31067.50
+Geração 020/25 | Melhor WSP: -31067.50
+
+=== ALGORITMO GENÉTICO FINALIZADO ===

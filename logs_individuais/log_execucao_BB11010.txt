@@ -1,0 +1,26 @@
+=== INICIANDO EXECUÇÃO FORÇA TOTAL: BB11010 ===
+Dimensões: 4 fitas x 536 colunas
+Parâmetros: 100 Gerações | Pop: 20
+
+Geração 000/100 | Melhor WSP: -770.50
+Geração 005/100 | Melhor WSP: -770.50
+Geração 010/100 | Melhor WSP: -770.50
+Geração 015/100 | Melhor WSP: -770.50
+Geração 020/100 | Melhor WSP: -770.50
+Geração 025/100 | Melhor WSP: -770.50
+Geração 030/100 | Melhor WSP: -770.50
+Geração 035/100 | Melhor WSP: -770.50
+Geração 040/100 | Melhor WSP: -770.50
+Geração 045/100 | Melhor WSP: -770.50
+Geração 050/100 | Melhor WSP: -770.50
+Geração 055/100 | Melhor WSP: -770.50
+Geração 060/100 | Melhor WSP: -770.50
+Geração 065/100 | Melhor WSP: -769.50
+Geração 070/100 | Melhor WSP: -769.50
+Geração 075/100 | Melhor WSP: -769.50
+Geração 080/100 | Melhor WSP: -769.50
+Geração 085/100 | Melhor WSP: -769.50
+Geração 090/100 | Melhor WSP: -769.50
+Geração 095/100 | Melhor WSP: -769.50
+
+=== ALGORITMO GENÉTICO FINALIZADO ===

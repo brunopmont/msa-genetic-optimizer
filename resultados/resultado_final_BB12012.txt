@@ -1,0 +1,4 @@
+Instância: BB12012
+Q-Score: 0.766
+TC-Score: 0.616
+Tempo de Execução (s): 0.70

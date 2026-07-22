@@ -1,0 +1,18 @@
+=== INICIANDO EXECUÇÃO FORÇA TOTAL: BB40011 ===
+Dimensões: 39 fitas x 1973 colunas
+Parâmetros: 100 Gerações | Pop: 20
+
+Geração 000/100 | Melhor WSP: -220077.50
+Geração 005/100 | Melhor WSP: -220077.50
+Geração 010/100 | Melhor WSP: -220077.50
+Geração 015/100 | Melhor WSP: -220072.50
+Geração 020/100 | Melhor WSP: -220072.50
+Geração 025/100 | Melhor WSP: -220072.50
+Geração 030/100 | Melhor WSP: -220072.50
+Geração 035/100 | Melhor WSP: -220072.50
+Geração 040/100 | Melhor WSP: -220072.50
+Geração 045/100 | Melhor WSP: -220072.50
+Geração 050/100 | Melhor WSP: -220072.50
+Geração 055/100 | Melhor WSP: -220072.50
+Geração 060/100 | Melhor WSP: -220072.50
+Geração 065/100 | Melhor WSP: -220062.50

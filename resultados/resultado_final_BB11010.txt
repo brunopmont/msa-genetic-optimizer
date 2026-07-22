@@ -1,0 +1,4 @@
+Instância: BB11010
+Q-Score: 0.387
+TC-Score: 0
+Tempo de Execução (s): 0.68
