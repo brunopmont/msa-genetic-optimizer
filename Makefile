@@ -1,29 +1,32 @@
-# profile -pg on compile & link
-# %.o : %.cc ; $(CXX) -O3 -pg -D_FILE_OFFSET_BITS=64 -Wall -W  -c $<
-%.o : %.cc ; $(CXX) -O3 -g -D_FILE_OFFSET_BITS=64 -Wall -W  -c $<
-%.o : %.cpp ; $(CXX) -O3 -g -DNDEBUG -D_FILE_OFFSET_BITS=64 -Wall -W  -c $<
+# =====================================================================
+# MSA Genetic Optimizer - Makefile
+# =====================================================================
 
-qscore:	\
-	clineshift.o \
-	comparemap.o \
-	comparemsa.o \
-	comparepair.o \
-	fasta.o \
-	fastq.o \
-	gapscore.o \
-	gapscore2.o \
-	main.o \
-	msa.o \
-	perseq.o \
-	options.o \
-	qscore.o \
-	seq.o \
-	sab.o \
-	sumpairs.o \
-	tc.o \
-	usage.o \
-	utils.o \
+PYTHON = python3
 
-# profile needs -pg
-#	$(CXX)  -O3 -pg -o qscore $^
-	$(CXX)  -O3 -o qscore $^
+.PHONY: all base benchmark clean help
+
+all: benchmark
+
+help:
+	@echo "Available commands:"
+	@echo "  make base       - Generate initial seed alignments using KAlign"
+	@echo "  make benchmark  - Run the complete Genetic Algorithm benchmark suite"
+	@echo "  make clean      - Remove temporary files, logs, and build artifacts"
+
+base:
+	@echo "Generating base alignments..."
+	$(PYTHON) gerar_base.py
+
+benchmark:
+	@echo "Running full benchmark suite..."
+	$(PYTHON) benchmark_completo.py
+
+clean:
+	@echo "Cleaning up temporary directories..."
+	rm -rf __pycache__
+	rm -rf base/
+	rm -rf genetic-alg/
+	rm -rf logs_individuais/
+	rm -rf resultados/
+	@echo "Cleanup completed successfully."
